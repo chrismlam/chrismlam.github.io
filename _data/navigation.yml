@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
+  # - title: "Resume"
+  #   url: /resume/
   - title: "MDataSc"
     url: /uq_mdatasci/
   - title: "Contact"
