@@ -1,7 +1,7 @@
 ---
 layout: single
-title: About
+title: About Me
 permalink: /about/
 ---
 
-## Hi, I'm Chris
+Hi there, I'm Chris. I'm a cross between an analyst, technical writer and Systems Engineer attempting to become a Data Scientist. 

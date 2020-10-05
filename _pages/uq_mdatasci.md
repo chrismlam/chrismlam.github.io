@@ -4,8 +4,6 @@ title: UQ MDataSc
 permalink: /uq_mdatasci/
 ---
 
-*Is studying a postgraduate Master of Data Science degree actually worth it?*
-
 ## Notable Projects
 
 - DATA7001: Intro to Data Science
