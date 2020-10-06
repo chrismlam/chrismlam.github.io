@@ -48,7 +48,7 @@ plugins:
 author:
   name             : "Chris Lam"
   avatar           : "assets/images/profile.png"
-  bio              : "☕ Lactose-free coffee <br>😎 Systems Engineer & Data Scientist <br>👨‍🎓 Always Learning"
+  bio              : "😎 Data Science postgrad at UQ. <br>📚 Perpetual student. <br>☕ Lactose-free coffee drinker."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -62,6 +62,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/chrispylam"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/chrismlam"
 
 footer:
   links:
