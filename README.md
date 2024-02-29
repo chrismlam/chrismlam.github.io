@@ -1,1 +1,0 @@
-This is me attempting to create another personal blog site.
