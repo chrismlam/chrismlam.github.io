@@ -3,7 +3,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 
-# Quarto files
-*.qmd
-
 /.quarto/
